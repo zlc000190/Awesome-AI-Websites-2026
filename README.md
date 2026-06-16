@@ -34,6 +34,7 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 - [**AI Photo Editor**](https://bestaiphotoeditor.app) — Best **free AI photo editor** online. Image-to-image AI photo editing, AI photo generator, photo-to-photo AI, and AI photo text editor.
 - [**AI Image Editor**](https://ai-image-editor.online) — Free **AI image editor** online. Image-to-image AI, AI photo editing, AI image generator, and AI image text editor.
 - [**AI Room Design**](https://airoom-design.com) — **AI room design generator** and AI home photo editor. AI interior design from images or text prompts; AI room planner and image redesign.
+- [**Seedream AI Studio**](https://seedream4.video/) — Multi-model AI image generation platform by ByteDance. Powered by Seedream 5.0/4.5/4.0, ranked **#1 in AI Image Arena**. Supports up to 10 reference images and one-click **Kling 2.1 video generation**. Free tier available.
 
 ## AI Video Generators
 
